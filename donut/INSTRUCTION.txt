@@ -1,0 +1,15 @@
+->This webpage shows the the number of tickets of favorite genre/categories of movies booked in the year August 2015
+
+->It gets its data(categories of movies list) from a .csv file that is been stored inside the folder
+
+->To view this application, you will have to install the xampp application put inside this folder and place the folder containing this document inside C:\xampp\htdocs to be able to running it cos the webpage is stored in .php extension.
+
+->If you hover on each section of the circle, it shows the catergories and the percentage of people that has booked for it.
+
+->Inside the donut is the list of each category and each can be clicked, when clicked, it hides the section clicked and increases the percentage of others.
+
+->The application is responsive i.e when you resize the size of your browser, it fits with the current size.
+
+->To view the application in a browser type localhost/the name of the folder it is been kept in e.g: http://localhost/piechartd3/d3%20project/rand/
+ 
+THANKS

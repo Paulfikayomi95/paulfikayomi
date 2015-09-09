@@ -1,0 +1,13 @@
+->This web webpage shows a randomly generated values with it
+
+->To view this application, you will have to install the xampp application put inside the folder and place the folder containing this document inside C:\xampp\htdocs to be able to running it cos the webpage is stored in .php extension.
+
+->This numbers can b changed by clicking on the change button that is beside the donut.
+
+->If the button is clicked, the values inside changes and the position inside each section changes as well.
+
+->The application is responsive i.e when you resize the size of your browser, it fits with the current size.
+
+->To view the application in a browser type localhost/the name of the folder it is been kept in e.g: http://localhost/piechartd3/d3%20project/rand/
+
+THANKS
